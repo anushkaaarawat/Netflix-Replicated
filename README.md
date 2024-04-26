@@ -1,1 +1,1 @@
-# Bharat-Intern
+Replicated the Netflix Home Page
